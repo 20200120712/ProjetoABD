@@ -1,4 +1,4 @@
-# ProjetoABD <h1>
+# Projeto de Banco de Dados <h1>
   
 - Seu nome completo: Daniel Leônidas de Medeiros
 - Seu usuário github: 20200120712
