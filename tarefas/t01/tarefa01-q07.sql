@@ -9,3 +9,4 @@ SELECT departamento.descricao, gerente.nome, COALESCE(total_funcionarios_por_dep
 FROM departamento
 LEFT JOIN funcionario gerente ON departamento.cod_gerente = gerente.codigo
 LEFT JOIN total_funcionarios_por_depto ON departamento.codigo = total_funcionarios_por_depto.codigo;
+ 
